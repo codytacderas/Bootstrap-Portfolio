@@ -1,0 +1,174 @@
+#jumbotron1 {
+	background-color: white;
+	width: 100%;
+	height: 100%;
+	padding-top: 75px;
+	padding-bottom: 150px;
+	border-bottom-style: double;
+	border-color: #ff9900;
+}
+#jumbotron3 {
+	background-color: #ffb84d;
+	width: 100%;
+	height: 100%;
+	padding-top: 25px;
+	padding-bottom: 10px;
+	border-bottom-style: double;
+	border-top-style: double;
+	border-color: #ff9900;
+}
+body {
+	background-image: url("assets.html/images/food.png");
+}
+#me {
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-bottom: 20px;
+	padding-top: 20px;
+	margin-left: 250px;
+	margin-bottom: -3.5px;
+	background-image: url("assets.html/images/food.png"); 
+	border-color: #ff9900;	
+	border-width: 1.5px;
+  	border-radius: 25px;
+  	border-style: solid;
+  	border-bottom-width: 0px;
+  	border-bottom-left-radius: 0em;
+  	border-bottom-right-radius: 0em;
+  	width: 450px;
+}
+.nametag {
+	line-height: 75%;
+	margin-top: 10px;
+	margin-bottom: -40px;
+  	color: white;
+  	text-align: center;
+  	font-size: 95px;
+  	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+  	text-shadow: -3px 0 black, 0 3px black, 3px 0 black, 0 -3px black;
+  	text-overflow: visible;
+}
+.nav {
+	margin-left: 150px;
+	margin-top: 80px;
+  	color: #ff9900;
+  	font-size: 42px;
+  	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+  	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
+.aboutMe {
+	margin-left: 160px;
+	margin-bottom: 200px;
+	margin-top: 125px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+  	background: white;	
+  	border-color: #ff9900;
+  	border-style: solid;
+  	border-radius: 8px;
+  	border-width: 1.5px;
+  	width: 625px;
+  	color: #ff9900;
+  	text-align: center;
+  	font-size: 42px;
+ 	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 2px;
+  	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
+.meWording {
+	margin-top: 10px;
+	padding: 10px;
+	border-top-style: solid;
+	border-color: #ff9900;
+	border-width: 1.5px;
+	font-size: 16px;
+	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+	color: black;
+	text-shadow: none;
+}
+#myportfolio {
+	margin-left: 150px;
+	margin-top: 125px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	margin-bottom: 150px;
+  	background: white;	
+  	border-color: #ff9900;
+  	border-style: solid;
+  	border-radius: 8px;
+  	border-width: 1.5px;
+  	width: 600px;
+  	color: #ff9900;
+  	text-align: center;
+  	font-size: 42px;
+  	letter-spacing: 2px;
+	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+  	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
+.firstP {
+	text-align: left;
+	margin-top: 20px;
+}
+.connectMe {
+	margin-left: -30px;
+	margin-top: 125px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+  	background: white;	
+  	border-color: #ff9900;
+  	border-style: solid;
+  	border-radius: 8px;
+  	border-width: 1.5px;
+  	width: 375px;
+  	color: #ff9900;
+  	text-align: center;
+  	font-size: 42px;
+  	letter-spacing: 2px;
+	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+  	text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+}
+.connectWording {
+	border-color: #ff9900;
+	margin-top: 10px;
+	margin-bottom: 10px;
+	border-top-style: solid;
+	border-width: 1.5px;
+}
+.connectIcons {
+	margin-top: 10px;
+	margin-bottom: 20px;
+}
+.meWording {
+	padding: 20px;
+	text-align: left;
+}
+.row3 {
+	color: white;
+  	font-size: 28px;
+  	font-family: 'Love Ya Like A Sister', cursive;
+  	letter-spacing: 1px;
+  	text-shadow: -2px 0 black, 0 2px black, 2px 0 black, 0 -2px black;
+	width: 100%;
+}
+.text-center {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+.buttonSubmit {
+	margin-left: 250px;
+}
+.input {
+	width: 250px;
+}
+a:hover {
+	text-decoration: none;
+}
